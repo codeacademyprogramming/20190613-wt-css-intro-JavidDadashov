@@ -1,0 +1,39 @@
+body{
+    font-family: sans-serif;
+
+
+}
+
+.button{
+    text-decoration: none;
+    margin: 30px;
+    padding: 15px 25px;
+    
+
+}
+
+.b-black{   
+    background-color: black;
+    color: white;
+
+}
+.b-gold{
+background-color: gold;
+color:gray;
+
+}
+.b-red{
+    background-color: red;
+    color: white;
+
+}
+.b-gray{
+    background-color: gray;
+    color: black;
+
+}
+.b-blue{
+    background-color: skyblue;
+    color:white;
+    
+}

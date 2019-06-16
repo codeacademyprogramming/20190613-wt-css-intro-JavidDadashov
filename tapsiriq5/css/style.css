@@ -1,0 +1,51 @@
+body{
+    font-family: sans-serif;
+    background-color: #F3F3F3;
+
+}
+a{
+    text-decoration: none;
+    background-color: #3E85D6;
+    color: #fff;
+    margin: 20px;
+
+}
+.mini-bt{
+    border-radius: 4px;
+    padding: 5px 8px;
+    margin: 10px;
+    font-size: 12px;
+    
+
+}
+.default-bt{
+    border-radius: 5px;
+    padding: 8px 14px;
+    margin: 10px;
+    font-size: 15px;
+}
+
+.large-bt{
+    border-radius: 5px;
+    padding: 15px 18px;
+    margin: 10px;
+    
+}
+.mini-ronded{
+    border-radius: 20px;
+    padding: 5px 8px;
+    margin: 10px;
+    font-size: 12px;
+}
+
+.default-ronded{
+    border-radius: 20px;
+    padding: 8px 14px;
+    margin: 10px;
+    
+}
+.large-ronded{
+    border-radius: 20px;
+    padding: 15px 18px;
+    margin: 10px;
+}

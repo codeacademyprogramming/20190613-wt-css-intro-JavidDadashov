@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background-image: url(../image/bg-angel.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 450px;
+    color:#fff;
+}
+.demo{
+    background-color: #3AAEE7;
+    padding: 15px 30px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.purchase{
+    background-color: #81C784;
+    padding:15px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+
+
+
+}
+
+

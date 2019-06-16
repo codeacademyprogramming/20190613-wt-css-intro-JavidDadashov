@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+
+}
+a{
+    color:white;
+    padding: 10px 15px;
+    text-decoration: none;
+
+
+
+}
+.bt-red{
+    background-color: #8B1919;
+    border-radius: 5px;
+}
+.bt-blue{
+    background-color: #2F66B8;
+    border-radius: 10px;
+
+    }
+    .bt-green{
+        background-color: #236B27;
+        border-radius: 15px;
+
+    }
+    .bt-gold{
+        background-color: #B88B34;
+        border-radius: 20px;
+        
+    }
